@@ -21,6 +21,9 @@ Scans the /lib/modules directory and deletes folders that do not belong to any i
 <b>6. Safety and GRUB Update</b>
 Whenever a kernel is removed, the script automatically runs update-grub. This ensures the system's bootloader menu is always up-to-date and does not contain links to non-existent versions.
 
+<img width="938" height="537" alt="kern-clean_en" src="https://github.com/user-attachments/assets/e001e1a8-af1c-4de2-9f69-87a71a5f3ad4" />
+
+
 -----------------
 <b>Installation & Quick Access</b>
 
