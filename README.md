@@ -1,6 +1,6 @@
 Kernel Cleaner Script for Debian/Ubuntu/Mint
 
-This script is a powerful tool for maintaining order on Debian/Ubuntu-based systems. Its primary purpose is to safely remove old Linux Kernel versions and related packages to reclaim significant disk space.
+This script is a powerful tool for maintaining order on Debian/Ubuntu/Mint-based systems. Its primary purpose is to safely remove old Linux Kernel versions and related packages to reclaim significant disk space.
 Features
 
 <b>1. System Detection</b>
