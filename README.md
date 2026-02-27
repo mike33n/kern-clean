@@ -21,29 +21,29 @@ Scans the /lib/modules directory and deletes folders that do not belong to any i
 <b>6. Safety and GRUB Update</b>
 Whenever a kernel is removed, the script automatically runs update-grub. This ensures the system's bootloader menu is always up-to-date and does not contain links to non-existent versions.
 
-<img width="938" height="537" alt="kern-clean_en" src="https://github.com/user-attachments/assets/e001e1a8-af1c-4de2-9f69-87a71a5f3ad4" />
+<img width="938" height="537" alt="kernel-purge_en_en" src="https://github.com/user-attachments/assets/e001e1a8-af1c-4de2-9f69-87a71a5f3ad4" />
 
 
 -----------------
 <b>Installation & Quick Access</b>
 
-If you want to run this script from anywhere in your terminal by simply typing kern-clean, follow these steps:
+If you want to run this script from anywhere in your terminal by simply typing kernel-purge, follow these steps:
 
     Move the script to the binary directory:
     Bash
 
-    sudo cp your_script_name.sh /usr/local/bin/kern-clean
+    sudo cp your_script_name.sh /usr/local/bin/kernel-purge
 
     Set execution permissions:
     Bash
 
-    sudo chmod +x /usr/local/bin/kern-clean
+    sudo chmod +x /usr/local/bin/kernel-purge
 
     Usage:
     Now, you can run the tool anytime by typing:
     Bash
 
-    kern-clean
+    kernel-purge
 
 Requirements
 
